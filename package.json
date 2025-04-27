@@ -1,0 +1,13 @@
+{
+    "name": "meditrack-db",
+    "version": "1.0.0",
+    "description": "JSON Server for MediTrack project",
+    "main": "index.js",
+    "scripts": {
+      "start": "json-server --watch db.json --port 10000"
+    },
+    "dependencies": {
+      "json-server": "^0.17.3"
+    }
+  }
+  

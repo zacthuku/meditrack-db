@@ -1,0 +1,85 @@
+{
+    "visits": [
+      {
+        "id": "1",
+        "patientName": "John Doe",
+        "doctor": "Rick Richardson",
+        "date": "2025-04-01",
+        "diagnosis": "Cold and Cough",
+        "treatment": "Rest and hydration. Over-the-counter medication.",
+        "notes": "Follow-up in 2 weeks if symptoms persist."
+      },
+      {
+        "id": "2",
+        "patientName": "Jane Smith",
+        "date": "2025-04-05",
+        "doctor": "Nick Richardson",
+        "diagnosis": "Headache and dizziness",
+        "treatment": "Pain relievers and rest.",
+        "notes": "Monitor for any severe symptoms."
+      },
+      {
+        "id": "3",
+        "patientName": "Samuel Lee",
+        "date": "2025-04-10",
+        "doctor": "Nick Cannon",
+        "diagnosis": "Stomach pain",
+        "treatment": "Prescribed medication for digestion.",
+        "notes": "Dietary changes recommended."
+      },
+      {
+        "id": "8d1b",
+        "patientName": "dele ali",
+        "doctor": "Jane Patrison",
+        "date": "2025-04-11",
+        "diagnosis": "headacahe",
+        "treatment": "pills",
+        "notes": "take 1 three times a day"
+      },
+      {
+        "id": "d8c9",
+        "patientName": "Speedie",
+        "doctor": "Nancy Drew",
+        "date": "2024-07-12",
+        "diagnosis": "just a cutie pie",
+        "treatment": "more cuddles",
+        "notes": "more sleep"
+      },
+      {
+        "patientName": "Elsie Oscar",
+        "date": "2025-04-26",
+        "doctor": "Dr. Smith",
+        "symptoms": "mild fever",
+        "diagnosis": "Common flue",
+        "prescription": "Take hot water with honey in it",
+        "notes": "visit if symptoms persist",
+        "id": "U1px4U-"
+      },
+      {
+        "patientName": "James Kimani",
+        "date": "2025-04-26",
+        "doctor": "Dr. Smith",
+        "symptoms": "severe stomach problems",
+        "diagnosis": "Amoeba",
+        "prescription": "Prescribed Medicine",
+        "notes": "Visit after 2 weeks",
+        "id": "GJnq7ry"
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "email": "doctor@example.com",
+        "password": "password123",
+        "name": "Dr. Smith",
+        "role": "doctor"
+      },
+      {
+        "id": "2",
+        "email": "admin@example.com",
+        "password": "admin123",
+        "name": "Nurse Johnson",
+        "role": "admin"
+      }
+    ]
+  }
