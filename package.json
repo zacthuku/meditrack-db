@@ -1,13 +1,25 @@
 {
-    "name": "meditrack-db",
-    "version": "1.0.0",
-    "description": "JSON Server for MediTrack project",
-    "main": "index.js",
-    "scripts": {
-      "start": "json-server --watch db.json --port 10000"
-    },
-    "dependencies": {
-      "json-server": "^0.17.3"
-    }
+  "name": "meditrack-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacthuku/meditrack-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacthuku/meditrack-db/issues"
+  },
+  "homepage": "https://github.com/zacthuku/meditrack-db#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.3"
   }
-  
+}
